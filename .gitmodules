@@ -1,0 +1,3 @@
+[submodule "TimePlanHabits-frontend"]
+	path = TimePlanHabits-frontend
+	url = https://github.com/jagodek/TimePlanHabits-frontend.git
